@@ -155,7 +155,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/DGXeon/NeroBot-MD4
-cd NeroBot-MD
+cd ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 npm start
 ```
 ## `For VPS`
@@ -166,8 +166,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/NeroBot-MD4
-cd DarkNero-MD2
+git clone https://github.com/DGXeon/❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
+cd ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱-MD2
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
