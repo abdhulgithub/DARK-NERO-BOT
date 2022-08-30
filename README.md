@@ -1,11 +1,11 @@
 
 
-<h1 align="center">✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫<br></h1>
+<h1 align="center">❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/5LT7brL/Whats-App-Image-2022-07-19-at-1-07-23-PM.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img src="https://i.ibb.co/VTxVmF6/Whats-App-Image-2022-07-19-at-1-07-23-PM.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
  
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬DARK༒NERO࿐+࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹) ]
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱࿐+࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹) ]
  
  
  #### TOTAL REPO VIEWS📍
@@ -61,13 +61,13 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 -THENX FROM = vihanga & kumuthu    pramu & amra
 
 
- -𝙱𝙾𝚃 cricating = 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰
+ -𝙱𝙾𝚃 cricating = ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
 
 
-    [`𝙱𝙾𝚃 cricating = 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰)
+    [`𝙱𝙾𝚃 cricating = ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱)
 
 
 
